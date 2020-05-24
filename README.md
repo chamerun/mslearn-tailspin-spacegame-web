@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/harunkara/Learning%20Azure%20DevOps/_apis/build/status/chamerun.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/harunkara/Learning%20Azure%20DevOps/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
