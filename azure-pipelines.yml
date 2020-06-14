@@ -1,6 +1,6 @@
 trigger:
 - '*'
-
+#yorum
 pool:
   name: 'azure vm ubuntu'
   demands:
